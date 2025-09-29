@@ -16,3 +16,10 @@ This Python script reads an Excel file containing company names, searches the we
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
+
+```
+This scrapper will give you the urls in this format == Found website: //duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.zund.com%2Fen%2Fcompany%2Fsales%2Dnetwork%2Fzam&rut=3bc746712bb1c8c2b12ce7c95239cfb72ac7273b5a81512fe62420bd099b272a   soo to convert this in 
+https format i have uploaded one file duck duckgo url to google url 
+This will help you to get simple http url like this == https://www.zund.com/en/company/sales-network/zam
+
+THANK YOU!!!
